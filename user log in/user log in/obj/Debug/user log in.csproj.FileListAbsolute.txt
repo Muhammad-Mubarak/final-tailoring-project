@@ -1,0 +1,37 @@
+E:\Lab\OOAD LAb\user log in\user log in\bin\Debug\user log in.exe.config
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user log in.csprojResolveAssemblyReference.cache
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user_log_in.Form1.resources
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user_log_in.Properties.Resources.resources
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user log in.csproj.GenerateResource.Cache
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user_log_in.registration_user.resources
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user_log_in.tailor_login.resources
+E:\Lab\OOAD LAb\user log in\user log in\bin\Debug\user log in.exe
+E:\Lab\OOAD LAb\user log in\user log in\bin\Debug\user log in.pdb
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user log in.exe
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user log in.pdb
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user_log_in.Admin_login.resources
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user_log_in.admin_signup.resources
+E:\Lab\OOAD LAb\user log in\user log in\obj\Debug\user_log_in.tailor_signup.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\bin\Debug\user log in.exe.config
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user log in.exe
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user log in.pdb
+E:\Lab\OOAD LAb\Project1\user log in\user log in\bin\Debug\user log in.exe
+E:\Lab\OOAD LAb\Project1\user log in\user log in\bin\Debug\user log in.pdb
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user log in.csprojResolveAssemblyReference.cache
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.Admin_login.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.admin_signup.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.Form1.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.Properties.Resources.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.registration_user.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.tailor_login.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.tailor_signup.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user log in.csproj.GenerateResource.Cache
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.tailor_after_login.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.upload_form.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.user_after_login.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.admin_after_login.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.admin_adding_user.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.adding_tailor_by_admin.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.orders_s_form.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.orders_to_tailors.resources
+E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.tatilor_by_admin.resources

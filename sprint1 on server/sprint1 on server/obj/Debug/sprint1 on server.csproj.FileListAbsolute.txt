@@ -1,0 +1,38 @@
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.csprojResolveAssemblyReference.cache
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\ApplicationInsights.config
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\sprint1 on server.dll.config
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\sprint1 on server.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\sprint1 on server.pdb
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.DependencyCollector.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Web.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.WindowsServer.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.ApplicationInsights.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.DependencyCollector.xml
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Web.xml
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.AI.WindowsServer.xml
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\bin\Microsoft.ApplicationInsights.xml
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.dll
+E:\Lab\OOAD LAb\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.pdb
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\ApplicationInsights.config
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\sprint1 on server.dll.config
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\sprint1 on server.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\sprint1 on server.pdb
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.DependencyCollector.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Web.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.WindowsServer.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.ApplicationInsights.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.DependencyCollector.xml
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Web.xml
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.AI.WindowsServer.xml
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.ApplicationInsights.xml
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.csprojResolveAssemblyReference.cache
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.dll
+E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.pdb

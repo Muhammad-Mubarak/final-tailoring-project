@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:1042/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:1042/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:1042/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/sprint1_on_server" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_Customer_username_InputMessage">
+    <wsdl:part name="parameters" element="tns:Customer_username" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Customer_username_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Customer_usernameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isvalid_InputMessage">
+    <wsdl:part name="parameters" element="tns:isvalid" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isvalid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:isvalidResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isvalid_tailor_InputMessage">
+    <wsdl:part name="parameters" element="tns:isvalid_tailor" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isvalid_tailor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:isvalid_tailorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_tailor_registrattion_InputMessage">
+    <wsdl:part name="parameters" element="tns:tailor_registrattion" />
+  </wsdl:message>
+  <wsdl:message name="IService1_tailor_registrattion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:tailor_registrattionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_admin_registration_InputMessage">
+    <wsdl:part name="parameters" element="tns:admin_registration" />
+  </wsdl:message>
+  <wsdl:message name="IService1_admin_registration_OutputMessage">
+    <wsdl:part name="parameters" element="tns:admin_registrationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isvalid_admin_InputMessage">
+    <wsdl:part name="parameters" element="tns:isvalid_admin" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isvalid_admin_OutputMessage">
+    <wsdl:part name="parameters" element="tns:isvalid_adminResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetDataUsingDataContract_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetDataUsingDataContract_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContractResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_add_design_InputMessage">
+    <wsdl:part name="parameters" element="tns:add_design" />
+  </wsdl:message>
+  <wsdl:message name="IService1_add_design_OutputMessage">
+    <wsdl:part name="parameters" element="tns:add_designResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_get_design_InputMessage">
+    <wsdl:part name="parameters" element="tns:get_design" />
+  </wsdl:message>
+  <wsdl:message name="IService1_get_design_OutputMessage">
+    <wsdl:part name="parameters" element="tns:get_designResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_get_customer_InputMessage">
+    <wsdl:part name="parameters" element="tns:get_customer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_get_customer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:get_customerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_get_tailor_InputMessage">
+    <wsdl:part name="parameters" element="tns:get_tailor" />
+  </wsdl:message>
+  <wsdl:message name="IService1_get_tailor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:get_tailorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_get_order_InputMessage">
+    <wsdl:part name="parameters" element="tns:get_order" />
+  </wsdl:message>
+  <wsdl:message name="IService1_get_order_OutputMessage">
+    <wsdl:part name="parameters" element="tns:get_orderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_order_tailor_InputMessage">
+    <wsdl:part name="parameters" element="tns:order_tailor" />
+  </wsdl:message>
+  <wsdl:message name="IService1_order_tailor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:order_tailorResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="Customer_username">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Customer_username" message="tns:IService1_Customer_username_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/Customer_usernameResponse" message="tns:IService1_Customer_username_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="isvalid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/isvalid" message="tns:IService1_isvalid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/isvalidResponse" message="tns:IService1_isvalid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="isvalid_tailor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/isvalid_tailor" message="tns:IService1_isvalid_tailor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/isvalid_tailorResponse" message="tns:IService1_isvalid_tailor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="tailor_registrattion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/tailor_registrattion" message="tns:IService1_tailor_registrattion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/tailor_registrattionResponse" message="tns:IService1_tailor_registrattion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="admin_registration">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/admin_registration" message="tns:IService1_admin_registration_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/admin_registrationResponse" message="tns:IService1_admin_registration_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="isvalid_admin">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/isvalid_admin" message="tns:IService1_isvalid_admin_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/isvalid_adminResponse" message="tns:IService1_isvalid_admin_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetDataUsingDataContract" message="tns:IService1_GetDataUsingDataContract_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetDataUsingDataContractResponse" message="tns:IService1_GetDataUsingDataContract_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="add_design">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/add_design" message="tns:IService1_add_design_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/add_designResponse" message="tns:IService1_add_design_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="get_design">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/get_design" message="tns:IService1_get_design_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/get_designResponse" message="tns:IService1_get_design_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="get_customer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/get_customer" message="tns:IService1_get_customer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/get_customerResponse" message="tns:IService1_get_customer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="get_tailor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/get_tailor" message="tns:IService1_get_tailor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/get_tailorResponse" message="tns:IService1_get_tailor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="get_order">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/get_order" message="tns:IService1_get_order_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/get_orderResponse" message="tns:IService1_get_order_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="order_tailor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/order_tailor" message="tns:IService1_order_tailor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/order_tailorResponse" message="tns:IService1_order_tailor_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Customer_username">
+      <soap:operation soapAction="http://tempuri.org/IService1/Customer_username" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isvalid">
+      <soap:operation soapAction="http://tempuri.org/IService1/isvalid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isvalid_tailor">
+      <soap:operation soapAction="http://tempuri.org/IService1/isvalid_tailor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="tailor_registrattion">
+      <soap:operation soapAction="http://tempuri.org/IService1/tailor_registrattion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="admin_registration">
+      <soap:operation soapAction="http://tempuri.org/IService1/admin_registration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isvalid_admin">
+      <soap:operation soapAction="http://tempuri.org/IService1/isvalid_admin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetDataUsingDataContract" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="add_design">
+      <soap:operation soapAction="http://tempuri.org/IService1/add_design" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="get_design">
+      <soap:operation soapAction="http://tempuri.org/IService1/get_design" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="get_customer">
+      <soap:operation soapAction="http://tempuri.org/IService1/get_customer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="get_tailor">
+      <soap:operation soapAction="http://tempuri.org/IService1/get_tailor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="get_order">
+      <soap:operation soapAction="http://tempuri.org/IService1/get_order" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="order_tailor">
+      <soap:operation soapAction="http://tempuri.org/IService1/order_tailor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:1042/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

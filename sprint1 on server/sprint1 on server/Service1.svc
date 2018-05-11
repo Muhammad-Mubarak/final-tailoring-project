@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="sprint1_on_server.Service1" CodeBehind="Service1.svc.cs" %>
