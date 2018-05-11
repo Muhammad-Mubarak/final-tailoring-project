@@ -23,5 +23,12 @@ namespace user_log_in
             ser.Customer_username(txtUsername.Text, txtPassword.Text, txtMobile.Text, txtAddress.Text, txtEmail.Text);
             MessageBox.Show("Customer Registered!");
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Customer_Login c = new Customer_Login();
+            c.Show();
+            this.Hide();
+        }
     }
 }

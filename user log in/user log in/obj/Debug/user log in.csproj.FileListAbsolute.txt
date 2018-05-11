@@ -58,3 +58,5 @@ D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.ta
 D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.upload_form.resources
 D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.user_after_login.resources
 D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user log in.csproj.GenerateResource.Cache
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.Customer_Login.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.Customer_Signup.resources

@@ -78,6 +78,18 @@
     <Compile Include="admin_after_login.Designer.cs">
       <DependentUpon>admin_after_login.cs</DependentUpon>
     </Compile>
+    <Compile Include="Customer_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Login.Designer.cs">
+      <DependentUpon>Customer_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Signup.Designer.cs">
+      <DependentUpon>Customer_Signup.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -165,6 +177,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="admin_after_login.resx">
       <DependentUpon>admin_after_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Login.resx">
+      <DependentUpon>Customer_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Signup.resx">
+      <DependentUpon>Customer_Signup.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
