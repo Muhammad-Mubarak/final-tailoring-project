@@ -35,3 +35,26 @@ E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.adding_ta
 E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.orders_s_form.resources
 E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.orders_to_tailors.resources
 E:\Lab\OOAD LAb\Project1\user log in\user log in\obj\Debug\user_log_in.tatilor_by_admin.resources
+D:\form\final-tailoring-project\user log in\user log in\bin\Debug\user log in.exe.config
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user log in.exe
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user log in.pdb
+D:\form\final-tailoring-project\user log in\user log in\bin\Debug\user log in.exe
+D:\form\final-tailoring-project\user log in\user log in\bin\Debug\user log in.pdb
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user log in.csprojResolveAssemblyReference.cache
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.adding_tailor_by_admin.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.Admin_login.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.admin_signup.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.admin_adding_user.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.admin_after_login.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.Form1.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.orders_s_form.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.orders_to_tailors.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.Properties.Resources.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.registration_user.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.tailor_login.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.tailor_signup.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.tailor_after_login.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.tatilor_by_admin.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.upload_form.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user_log_in.user_after_login.resources
+D:\form\final-tailoring-project\user log in\user log in\obj\Debug\user log in.csproj.GenerateResource.Cache

@@ -36,3 +36,22 @@ E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\bin\Microsoft.Appli
 E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.csprojResolveAssemblyReference.cache
 E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.dll
 E:\Lab\OOAD LAb\Project1\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.pdb
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\ApplicationInsights.config
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\sprint1 on server.dll.config
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\sprint1 on server.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\sprint1 on server.pdb
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Agent.Intercept.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.DependencyCollector.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Web.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.WindowsServer.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.ApplicationInsights.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.DependencyCollector.xml
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.Web.xml
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.AI.WindowsServer.xml
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\bin\Microsoft.ApplicationInsights.xml
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.csprojResolveAssemblyReference.cache
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.dll
+D:\form\final-tailoring-project\sprint1 on server\sprint1 on server\obj\Debug\sprint1 on server.pdb

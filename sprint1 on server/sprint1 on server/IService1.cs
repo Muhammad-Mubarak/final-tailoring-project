@@ -34,6 +34,12 @@ namespace sprint1_on_server
         [OperationContract]
 
         bool isvalid_admin(string name, string password);
+
+        [OperationContract]
+        bool isValidCustomer(string username, string password);
+
+
+
         [OperationContract]
 
 

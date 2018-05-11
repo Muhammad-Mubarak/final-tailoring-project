@@ -203,21 +203,17 @@ namespace sprint1_on_server
 
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        public bool isValidCustomer(string username, string password)
+        {
+            foreach(customer c in customerdata.data_customer)
+            {
+                if(c.Username == username && c.Password == password)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
     }
     }
 

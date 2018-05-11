@@ -64,5 +64,12 @@ namespace user_log_in
             this.Hide();
             entry_admin.Show();
         }
+
+        private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Customer_Signup c = new Customer_Signup();
+            c.Show();
+            this.Hide();
+        }
     }
 }

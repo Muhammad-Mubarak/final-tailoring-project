@@ -43,6 +43,12 @@
   <wsdl:message name="IService1_isvalid_admin_OutputMessage">
     <wsdl:part name="parameters" element="tns:isvalid_adminResponse" />
   </wsdl:message>
+  <wsdl:message name="IService1_isValidCustomer_InputMessage">
+    <wsdl:part name="parameters" element="tns:isValidCustomer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_isValidCustomer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:isValidCustomerResponse" />
+  </wsdl:message>
   <wsdl:message name="IService1_GetDataUsingDataContract_InputMessage">
     <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
   </wsdl:message>
@@ -109,6 +115,10 @@
     <wsdl:operation name="isvalid_admin">
       <wsdl:input wsaw:Action="http://tempuri.org/IService1/isvalid_admin" message="tns:IService1_isvalid_admin_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/IService1/isvalid_adminResponse" message="tns:IService1_isvalid_admin_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="isValidCustomer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/isValidCustomer" message="tns:IService1_isValidCustomer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/isValidCustomerResponse" message="tns:IService1_isValidCustomer_OutputMessage" />
     </wsdl:operation>
     <wsdl:operation name="GetDataUsingDataContract">
       <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetDataUsingDataContract" message="tns:IService1_GetDataUsingDataContract_InputMessage" />
@@ -188,6 +198,15 @@
     </wsdl:operation>
     <wsdl:operation name="isvalid_admin">
       <soap:operation soapAction="http://tempuri.org/IService1/isvalid_admin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isValidCustomer">
+      <soap:operation soapAction="http://tempuri.org/IService1/isValidCustomer" style="document" />
       <wsdl:input>
         <soap:body use="literal" />
       </wsdl:input>
